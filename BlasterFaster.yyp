@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "c1e1214f-ece1-4a5e-8cb1-88ff93aa2774",
+            "Value": {
+                "id": "fa134b9d-d25a-4ac6-903e-e7c8bb4d424f",
+                "resourcePath": "objects\\obj_explosion_particle\\obj_explosion_particle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c4e1e6d4-660f-49a3-84cf-52afe94df426",
             "Value": {
                 "id": "c8a331ca-d902-4bfc-aee9-466d80fe3ee6",
@@ -332,6 +340,14 @@
                 "id": "c3d7f3f2-d521-4eb4-a004-fc17258edf88",
                 "resourcePath": "views\\ce0ba86a-667b-4aec-a6ad-8f6acc8abfd3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dbffdf75-eef5-4210-a76e-709b0bcb05cc",
+            "Value": {
+                "id": "40f18f9a-d8d0-42d1-a33a-27613505d871",
+                "resourcePath": "scripts\\create_ship_trail_particle\\create_ship_trail_particle.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -376,7 +392,7 @@
         }
     ],
     "script_order": [
-        
+        "dbffdf75-eef5-4210-a76e-709b0bcb05cc"
     ],
     "tutorial": ""
 }
