@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_laser",
     "eventList": [
-        
+        {
+            "id": "3f1b1dca-47ff-419a-a640-61d2322aa50d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 7,
+            "m_owner": "98bbae3d-08d3-4c2b-918d-7979614f7924"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
