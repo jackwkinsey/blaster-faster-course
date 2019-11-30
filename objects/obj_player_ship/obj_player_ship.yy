@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_player_ship",
     "eventList": [
-        
+        {
+            "id": "7a3d79d3-f933-47ce-91b3-79c2df2391b4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b27d3cac-bc7a-4a95-8e6f-1d217d2eb1a8"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,7 +31,50 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "d75c416d-6281-45aa-b8f7-27a47a7147bd",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "4",
+            "varName": "max_speed",
+            "varType": 1
+        },
+        {
+            "id": "e6a18c76-22f3-43b6-a20a-43d7c032d60a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.2",
+            "varName": "acceleration",
+            "varType": 0
+        },
+        {
+            "id": "83c526de-b661-40a8-89e6-1aea79961cf6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.05",
+            "varName": "friction_amount",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "23c17f13-4737-46b7-bf49-5ed6abbeaf2b",
     "visible": true
