@@ -1,6 +1,7 @@
 var mouse_direction = point_direction(x, y, mouse_x, mouse_y);
 var mouse_distance = point_distance(x, y, mouse_x, mouse_y);
 var thrust = mouse_check_button(mb_right);
+var fire_laser = mouse_check_button_pressed(mb_left);
 
 // Set angle of sprite to angle between ship and mouse location
 image_angle = mouse_direction;
@@ -15,4 +16,8 @@ if (thrust && mouse_distance > 20) {
 } else {
 	friction = friction_amount;
 	image_index = 2;
+}
+
+if (fire_laser) {
+	fire_lasers();
 }
