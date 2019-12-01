@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "4e767283-2f16-4e21-9a73-0dc9a40e784b",
+            "Value": {
+                "id": "69a574c1-2989-4203-accf-be344a7cb135",
+                "resourcePath": "objects\\obj_explosion_flash\\obj_explosion_flash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "563196fc-0d2c-4f62-b750-174d4386f42a",
             "Value": {
                 "id": "e31d0d46-b7c2-4bbf-8f16-eca04ef7ab7d",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "8576478c-e85c-4db2-b91b-72db72e67564",
+            "Value": {
+                "id": "a144ec50-aeca-4649-a0b7-0a76899daea4",
+                "resourcePath": "objects\\obj_explosion_chunk\\obj_explosion_chunk.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "877828f0-e612-415a-8ea3-f9f73bc44c5a",
             "Value": {
                 "id": "3b7d24af-a371-4c5e-87fa-2271a2d02498",
@@ -306,7 +322,7 @@
             "Key": "b183948d-e360-41b1-98f4-4cfbcf06406e",
             "Value": {
                 "id": "40e122fe-c3a2-4e9e-a139-cca5f1a6eb9b",
-                "resourcePath": "sprites\\s_explosion_center\\s_explosion_center.yy",
+                "resourcePath": "sprites\\s_explosion_flash\\s_explosion_flash.yy",
                 "resourceType": "GMSprite"
             }
         },
