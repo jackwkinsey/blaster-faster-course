@@ -1,3 +1,6 @@
+/// @arg object
+/// @arg acceleration
+
 var object = argument0;
 var acceleration = argument1;
 
