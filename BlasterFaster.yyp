@@ -186,7 +186,7 @@
             "Key": "79b8b015-0046-4c75-9bac-4837c4c858ed",
             "Value": {
                 "id": "2d287256-93b9-4776-bcad-4afbf497cfb2",
-                "resourcePath": "sprites\\s_enemy_one\\s_enemy_one.yy",
+                "resourcePath": "sprites\\s_enemy_two\\s_enemy_two.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -236,6 +236,14 @@
                 "id": "3b7d24af-a371-4c5e-87fa-2271a2d02498",
                 "resourcePath": "sprites\\s_laser_powerup\\s_laser_powerup.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95211f81-5057-4cfc-8c5f-b73fd50a2f20",
+            "Value": {
+                "id": "0758716f-2a9e-438a-8a8b-5ea39ae57943",
+                "resourcePath": "objects\\obj_enemy_ship_one\\obj_enemy_ship_one.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -330,7 +338,7 @@
             "Key": "c4e1e6d4-660f-49a3-84cf-52afe94df426",
             "Value": {
                 "id": "c8a331ca-d902-4bfc-aee9-466d80fe3ee6",
-                "resourcePath": "sprites\\s_enemy_two\\s_enemy_two.yy",
+                "resourcePath": "sprites\\s_enemy_one\\s_enemy_one.yy",
                 "resourceType": "GMSprite"
             }
         },
