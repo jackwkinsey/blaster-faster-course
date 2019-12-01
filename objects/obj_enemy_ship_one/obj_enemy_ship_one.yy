@@ -52,34 +52,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "8528e3d3-672b-4e14-8b25-fcfb200ccd1e",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "1",
-            "varName": "max_speed",
-            "varType": 0
-        },
-        {
-            "id": "28220d1f-51f1-41c0-95d6-9c5fd631570f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0.1",
-            "varName": "acceleration",
-            "varType": 0
-        }
+        
     ],
     "solid": false,
     "spriteId": "c4e1e6d4-660f-49a3-84cf-52afe94df426",
