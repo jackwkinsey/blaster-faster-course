@@ -16,7 +16,7 @@ draw_sprite(s_armor, armor, armor_x, armor_y);
 draw_sprite(s_score, 0, score_x, score_y);
 
 draw_set_halign(fa_right);
-draw_text(score_x - 2, score_y, "000000");
+draw_text(score_x - 2, score_y, string(score));
 draw_set_halign(fa_left);
 
 #endregion
