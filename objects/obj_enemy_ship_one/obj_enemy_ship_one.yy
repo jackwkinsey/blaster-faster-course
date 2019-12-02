@@ -5,16 +5,6 @@
     "name": "obj_enemy_ship_one",
     "eventList": [
         {
-            "id": "25adbe93-411a-4d39-9a74-52f308182b45",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "95211f81-5057-4cfc-8c5f-b73fd50a2f20"
-        },
-        {
             "id": "cd6c51e6-73d5-4d22-9742-fad6e2aa26ce",
             "modelName": "GMEvent",
             "mvc": "1.0",

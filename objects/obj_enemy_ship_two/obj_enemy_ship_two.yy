@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_enemy_ship_two",
     "eventList": [
-        
+        {
+            "id": "141ddc81-3828-4bfb-9947-b70ad4c192d5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "66b673be-cf08-4150-93c5-aac2c1e11747"
+        },
+        {
+            "id": "e1c8e985-fd32-4754-9c84-9527c282a6ba",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "66b673be-cf08-4150-93c5-aac2c1e11747"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -47,7 +66,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "89bde402-d56d-4452-858d-9680b3825a81",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "320",
+            "varName": "attack_range",
+            "varType": 1
+        },
+        {
+            "id": "1985eb9e-44c2-42a2-966a-6206ffcb2ebb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "fire_rate",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "79b8b015-0046-4c75-9bac-4837c4c858ed",
     "visible": true
