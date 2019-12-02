@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "406d2aee-72a0-4ac6-9116-5010b7b11785",
+            "Value": {
+                "id": "a0556715-bb26-4a66-9d71-c1c3d42e0a14",
+                "resourcePath": "sounds\\sfx_propulsion\\sfx_propulsion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "41ed7b30-3857-4045-b144-d27e342737bf",
             "Value": {
                 "id": "a424b4c3-1420-4c9f-a63d-76256f8c626e",

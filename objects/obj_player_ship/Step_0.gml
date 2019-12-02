@@ -13,9 +13,14 @@ if (thrust && mouse_distance > 20) {
 	motion_add(image_angle, acceleration);
 	image_index = 1;
 	create_ship_trail_particle(obj_explosion_particle);
+	
+	if (!audio_is_playing(sfx_propulsion)) {
+		audio_play_sound(sfx_propulsion, 1, true);
+	}
 } else {
 	friction = friction_amount;
 	image_index = 2;
+	audio_stop_sound(sfx_propulsion);
 }
 
 if (fire_laser) {
