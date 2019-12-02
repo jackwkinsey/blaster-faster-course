@@ -41,7 +41,7 @@
             "mvc": "1.0",
             "objectId": "9f19e17a-6bd9-4960-af89-d6afc42ef3a8",
             "propertyId": "4ca67100-1c3d-4249-9afa-78f0632296b4",
-            "value": "2"
+            "value": "1"
         }
     ],
     "parentObjectId": "70607798-055e-41b6-91fc-a3fbf8bbd4b6",
@@ -69,7 +69,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "320",
+            "value": "160",
             "varName": "attack_range",
             "varType": 1
         },
