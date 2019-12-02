@@ -28,14 +28,6 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "0a0a426a-c83b-452c-b698-df4c56edfbfc",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "9f19e17a-6bd9-4960-af89-d6afc42ef3a8",
-            "propertyId": "20da0572-5376-4b86-bc18-51d8d5db2bc6",
-            "value": "3"
-        },
-        {
             "id": "b7fe89af-d7ff-4e65-a9a6-492b0c3aff10",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
