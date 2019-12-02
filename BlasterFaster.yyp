@@ -162,7 +162,7 @@
             "Key": "42710864-35d7-4277-b16c-d7eeb824df5e",
             "Value": {
                 "id": "7bcb5fc2-dac1-4ce6-b692-ac7f572bace8",
-                "resourcePath": "sounds\\sfx_enemy_laser\\sfx_enemy_laser.yy",
+                "resourcePath": "sounds\\sfx_player_laser\\sfx_player_laser.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -298,7 +298,7 @@
             "Key": "805ec557-87be-40bd-9b10-3ff0b2413b22",
             "Value": {
                 "id": "2d44c091-4563-4c39-9e1d-37f2cbc2ff8f",
-                "resourcePath": "sounds\\sfx_laser\\sfx_laser.yy",
+                "resourcePath": "sounds\\sfx_enemy_laser\\sfx_enemy_laser.yy",
                 "resourceType": "GMSound"
             }
         },

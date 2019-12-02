@@ -1,8 +1,8 @@
 {
-    "id": "805ec557-87be-40bd-9b10-3ff0b2413b22",
+    "id": "42710864-35d7-4277-b16c-d7eeb824df5e",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sfx_laser",
+    "name": "sfx_player_laser",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
