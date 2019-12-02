@@ -15,8 +15,10 @@ draw_sprite(s_armor, armor, armor_x, armor_y);
 
 draw_sprite(s_score, 0, score_x, score_y);
 
+var score_string = pad_with_zeroes(string(score), 6);
+
 draw_set_halign(fa_right);
-draw_text(score_x - 2, score_y, string(score));
+draw_text(score_x - 2, score_y, score_string);
 draw_set_halign(fa_left);
 
 #endregion
