@@ -33,7 +33,7 @@
             "value": "2"
         }
     ],
-    "parentObjectId": "9f19e17a-6bd9-4960-af89-d6afc42ef3a8",
+    "parentObjectId": "70607798-055e-41b6-91fc-a3fbf8bbd4b6",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

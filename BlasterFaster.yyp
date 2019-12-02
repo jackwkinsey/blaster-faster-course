@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "70607798-055e-41b6-91fc-a3fbf8bbd4b6",
+            "Value": {
+                "id": "d48a6e7d-09d6-4702-8787-8ec41655acbb",
+                "resourcePath": "objects\\obj_enemy_ship\\obj_enemy_ship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "79b8b015-0046-4c75-9bac-4837c4c858ed",
             "Value": {
                 "id": "2d287256-93b9-4776-bcad-4afbf497cfb2",
