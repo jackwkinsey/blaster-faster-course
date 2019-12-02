@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "bf87b3ae-6eb6-4f91-a58b-f5a453b80897",
+            "Value": {
+                "id": "00f59cdb-a034-4b01-8321-c076e460d9e6",
+                "resourcePath": "objects\\obj_enemy_spawner\\obj_enemy_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c1e1214f-ece1-4a5e-8cb1-88ff93aa2774",
             "Value": {
                 "id": "fa134b9d-d25a-4ac6-903e-e7c8bb4d424f",
