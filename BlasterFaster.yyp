@@ -202,7 +202,7 @@
             "Key": "563196fc-0d2c-4f62-b750-174d4386f42a",
             "Value": {
                 "id": "e31d0d46-b7c2-4bbf-8f16-eca04ef7ab7d",
-                "resourcePath": "sounds\\sfx_hit\\sfx_hit.yy",
+                "resourcePath": "sounds\\sfx_enemy_hit\\sfx_enemy_hit.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "5d69ead8-5315-4d21-ad60-031cd2d5e949",
             "Value": {
                 "id": "d050c456-8bae-4f11-a146-892a073bd648",
-                "resourcePath": "sounds\\sfx_ship_hit\\sfx_ship_hit.yy",
+                "resourcePath": "sounds\\sfx_player_hit\\sfx_player_hit.yy",
                 "resourceType": "GMSound"
             }
         },

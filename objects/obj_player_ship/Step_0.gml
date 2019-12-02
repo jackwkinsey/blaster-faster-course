@@ -19,5 +19,5 @@ if (thrust && mouse_distance > 20) {
 }
 
 if (fire_laser) {
-	fire_lasers(obj_player_laser, 8);
+	fire_lasers(obj_player_laser, 8, sfx_player_laser);
 }
