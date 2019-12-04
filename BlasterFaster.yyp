@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "30919a92-43b2-4f26-8146-6e6b68a4479f",
+            "Value": {
+                "id": "05638366-b9cc-4209-bfe9-33a979a2be28",
+                "resourcePath": "objects\\obj_screenshake\\obj_screenshake.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "316bab7a-80c8-433f-8a45-da4ac3535a71",
             "Value": {
                 "id": "3db49937-077f-4be4-9fe6-ec07a00864fd",
