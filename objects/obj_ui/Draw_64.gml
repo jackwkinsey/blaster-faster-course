@@ -1,3 +1,5 @@
+if (room != r_space) exit;
+
 #region Draw the player ship armor
 
 var player = instance_find(obj_player_ship, 0);

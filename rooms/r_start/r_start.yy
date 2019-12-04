@@ -7,17 +7,17 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "2c8c043e-8c09-4804-ba32-178ce27a7da4",
         "214bd80e-a39a-4d5b-a72c-ece84b776ce1",
         "d05ca484-3e85-4a31-a923-d9a077af47c6",
-        "22aa383f-7160-4115-b4c0-e301f57eda61"
+        "22aa383f-7160-4115-b4c0-e301f57eda61",
+        "47f271fb-fff8-4c45-916a-cae1ac37f9e2"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "UI",
-            "id": "3d80dd29-af9c-4840-8902-2d72c8ba6ebc",
+            "id": "11bf6ede-f242-442d-931d-175c4b417cb4",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -28,7 +28,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_73369B52","id": "2c8c043e-8c09-4804-ba32-178ce27a7da4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_73369B52","objId": "41ed7b30-3857-4045-b144-d27e342737bf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
+{"name": "inst_106F2E1D","id": "47f271fb-fff8-4c45-916a-cae1ac37f9e2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_106F2E1D","objId": "41ed7b30-3857-4045-b144-d27e342737bf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 
@@ -54,9 +54,9 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_24F7D882","id": "214bd80e-a39a-4d5b-a72c-ece84b776ce1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_24F7D882","objId": "87ed2278-7411-4a25-b84f-26b247f03986","properties": [{"id": "7c6846ec-78e6-42ec-b495-e86a0a89b7ce","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "58ef38c2-dbd0-4777-811d-73e01cbab2f5","mvc": "1.0","value": "Start"},{"id": "e5da1589-4c33-43a6-8d42-6971525e0639","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "ed1b5619-d789-4b6e-8988-363fd7b875cb","mvc": "1.0","value": "start_game"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 320,"y": 180},
 {"name": "inst_77AF25CF","id": "d05ca484-3e85-4a31-a923-d9a077af47c6","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_77AF25CF","objId": "fbc107cf-c49d-421a-a5e7-24f73647e583","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0},
-{"name": "inst_EFAEC65","id": "22aa383f-7160-4115-b4c0-e301f57eda61","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_EFAEC65.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_EFAEC65","objId": "87ed2278-7411-4a25-b84f-26b247f03986","properties": [{"id": "bc46793e-524b-436f-9b0a-def3420501d9","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "58ef38c2-dbd0-4777-811d-73e01cbab2f5","mvc": "1.0","value": "Exit"},{"id": "24323796-b6c3-4fa5-a0a5-c8dbc8a69f7c","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "ed1b5619-d789-4b6e-8988-363fd7b875cb","mvc": "1.0","value": "exit_game"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 320,"y": 224}
+{"name": "start_button","id": "214bd80e-a39a-4d5b-a72c-ece84b776ce1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "start_button","objId": "87ed2278-7411-4a25-b84f-26b247f03986","properties": [{"id": "7c6846ec-78e6-42ec-b495-e86a0a89b7ce","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "58ef38c2-dbd0-4777-811d-73e01cbab2f5","mvc": "1.0","value": "Start"},{"id": "e5da1589-4c33-43a6-8d42-6971525e0639","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "ed1b5619-d789-4b6e-8988-363fd7b875cb","mvc": "1.0","value": "start_game"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 320,"y": 180},
+{"name": "exit_button","id": "22aa383f-7160-4115-b4c0-e301f57eda61","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_exit_button.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "exit_button","objId": "87ed2278-7411-4a25-b84f-26b247f03986","properties": [{"id": "bc46793e-524b-436f-9b0a-def3420501d9","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "58ef38c2-dbd0-4777-811d-73e01cbab2f5","mvc": "1.0","value": "Exit"},{"id": "24323796-b6c3-4fa5-a0a5-c8dbc8a69f7c","modelName": "GMOverriddenProperty","objectId": "87ed2278-7411-4a25-b84f-26b247f03986","propertyId": "ed1b5619-d789-4b6e-8988-363fd7b875cb","mvc": "1.0","value": "exit_game"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 320,"y": 224}
             ],
             "layers": [
 
